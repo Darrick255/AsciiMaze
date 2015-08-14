@@ -5,6 +5,7 @@ import heapq
 import pprint
 import cmd
 import math
+import turtle
 
 
 def main():
@@ -18,6 +19,7 @@ def main():
                for x in range(divHeight)]  # 0b1111 15 solid
         carveDivIter(startX, startY, div)
     print(printAsciiGrid(div))
+    turleBoard(div)
     # print(startX, startY)
     # path = pathToList(astar([divWidth-1, divHeight-1], [0, 0], div), [divWidth-1, divHeight-1])
     # print(path)
@@ -110,6 +112,57 @@ def carveDivIter(startX, startY, myDiv):
         if current == stack[len(stack)-1]:
             stack.pop()
 
+def turleBoard(grid):
+    N = 0b00000001
+    S = 0b00000010
+    E = 0b00000100
+    W = 0b00001000
+    xheight=20
+    yheight=20
+    wn = turtle.Screen()      # Creates a playground for turtles
+    alex = turtle.Turtle()    # Create a turtle, assign to alex
+    wn.setup((len(grid[0])+1)*yheight, (len(grid)+1)*xheight)
+    wn.setworldcoordinates(0-xheight/2, len(grid)*-yheight-yheight/2, len(grid[0])*xheight+xheight/2, yheight+yheight/2)
+    print(len(grid)*-yheight)
+    print(len(grid)*xheight)
+    wn.tracer(3)
+    alex.speed(0)
+    alex.shape("blank")
+
+    for x in range(len(grid[0])):
+        for y in range(len(grid)):
+            alex.penup()
+            alex.goto(x*xheight, y*-yheight)
+            if (grid[y][x] & N == 0):
+                alex.goto(x*xheight,y*-yheight+yheight)
+                alex.pendown()
+                alex.goto(x*xheight+xheight,y*-yheight+yheight)
+                alex.penup()
+                # print(x,y,grid[y][x])
+            if (grid[y][x] & S == 0):
+                alex.goto(x*xheight,y*-yheight)
+                alex.pendown()
+                alex.goto(x*xheight+xheight,y*-yheight)
+                alex.penup()
+                # print(x,y,grid[y][x])
+            if (grid[y][x] & E == 0):
+                alex.goto(x*xheight+xheight,y*-yheight)
+                alex.pendown()
+                alex.goto(x*xheight+xheight,y*-yheight+yheight)
+                alex.penup()
+            if (grid[y][x] & W == 0):
+                alex.goto(x*xheight,y*-yheight)
+                alex.pendown()
+                alex.goto(x*xheight,y*-yheight+yheight)
+                alex.penup()
+    wn.onscreenclick(gotoandprint)
+    wn.listen()
+    wn.mainloop()             # Wait for user to close window
+
+def gotoandprint(x, y):
+    gotoresult = turtle.goto(x, y)
+    print(turtle.xcor(), turtle.ycor())
+    return gotoresult
 
 def printGrid(grid):
     """

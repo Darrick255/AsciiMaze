@@ -1,0 +1,1099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"CHANGE",
+				"CHANGE_STATUS_ID"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"print",
+				"printAsciiGrid	function"
+			],
+			[
+				"get",
+				"get_prime_factors	function"
+			],
+			[
+				"re",
+				"reverse	function"
+			],
+			[
+				"ser",
+				"series_sum	function"
+			],
+			[
+				"form",
+				"format_money	function"
+			],
+			[
+				"r",
+				"reverse	function"
+			],
+			[
+				"s",
+				"substring〔function〕"
+			],
+			[
+				"list",
+				"listlen〔variable〕"
+			],
+			[
+				"p",
+				"push〔function〕"
+			],
+			[
+				"ascii",
+				"printAsciiGrid2"
+			],
+			[
+				"path",
+				"pathToList	function"
+			],
+			[
+				"grid",
+				"gridBuffer	statement"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"heap",
+				"heappush	function"
+			],
+			[
+				"max",
+				"maxWidth"
+			],
+			[
+				"fib",
+				"fibbonaciRecursive〔function〕"
+			],
+			[
+				"fibo",
+				"fibbonaciIterative〔function〕"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"int",
+				"intArray〔argument〕"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"Dr",
+				"DrawBoard"
+			],
+			[
+				"getR",
+				"getRandomInt〔function〕"
+			],
+			[
+				"each",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"plsql",
+				"Set Syntax: PL/SQL (Oracle)"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"works",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"work",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"keym",
+				"Keymap Redefiner: Define Keymap"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"color",
+				"String Utilities: Convert HTML Color Hex To RGB"
+			],
+			[
+				"color pi",
+				"Color Picker"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"encode",
+				"Codec: Base16 encode"
+			],
+			[
+				"base64",
+				"Codec: Base64 URL safe encode"
+			],
+			[
+				"bas",
+				"Codec: Base64 encode"
+			],
+			[
+				"base",
+				"Codec: Base64 encode"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"string",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"escap",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"stringencode",
+				"StringEncode: HTML Deentitize"
+			],
+			[
+				"html:",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"utilitieshtml",
+				"String Utilities: Convert Chars to HTML Entities"
+			],
+			[
+				"utiliti",
+				"String Utilities: Convert Chars to HTML Entities"
+			],
+			[
+				"deco",
+				"Codec: URL Decode Plus"
+			],
+			[
+				"decode",
+				"String Utilities: Decode URL"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"codec decode",
+				"Codec: Quoted-Printable decode"
+			],
+			[
+				"codec de",
+				"Codec: URL Decode"
+			],
+			[
+				"perm",
+				"Permute Lines: Unique"
+			],
+			[
+				"hex",
+				"String Utilities: Convert From Hex"
+			],
+			[
+				"book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"ascii",
+				"Codec: JSON encode as ASCII"
+			],
+			[
+				"define",
+				"Keymap Redefiner: Define Keymap"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"tabs",
+				"Table Editor: Show demo film in new scratch view"
+			],
+			[
+				"sortbyin",
+				"SortBy: Integer"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"sortby",
+				"SortBy: Natural order"
+			],
+			[
+				"sortsel",
+				"Sort Lines by Selection"
+			],
+			[
+				"sortbyint",
+				"SortBy: Integer"
+			],
+			[
+				"sort",
+				"SortBy: Alphabetically (Descending)"
+			],
+			[
+				"sort se",
+				"Sort Lines by Selection"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"codebas",
+				"Codec: Base64 decode"
+			],
+			[
+				"sublime code in",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"synjava",
+				"Set Syntax: Java"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"rgb",
+				"String Utilities: Convert HTML Color RGB To Hex"
+			],
+			[
+				"hex t",
+				"String Utilities: Convert HTML Color Hex To RGB"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"enable live",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"autocom",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"sublimein",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"synmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"disbal",
+				"Package Control: Disable Package"
+			],
+			[
+				"starser",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"server",
+				"SublimeServer: Manage SublimeServer Settings"
+			],
+			[
+				"key",
+				"Keymap Redefiner: Define Keymap"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sort line by",
+				"Sort Lines by Selection"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"sort by se",
+				"Sort Lines by Selection"
+			],
+			[
+				"wor",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"synpyth",
+				"Set Syntax: Python"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sync#",
+				"Set Syntax: C#"
+			],
+			[
+				"defin",
+				"Keymap Redefiner: Define Keymap"
+			],
+			[
+				"syntaxc",
+				"Set Syntax: C#"
+			],
+			[
+				"syhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import URL only"
+			],
+			[
+				"code",
+				"Codec: JSON encode"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rano",
+				"Random:Word"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"reple",
+				"ReadmePlease"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"k",
+				"Keymap Redefiner: Define Keymap"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inline",
+				"Inline Python: Replace with str()"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ana",
+				"Anaconda: Show error list"
+			],
+			[
+				"gitc",
+				"Git (SideBarGit): Clone…"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"clone",
+				"Git (SideBarGit): Clone…"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"packsyn",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"package sy",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"box",
+				"Snippet: ExampleTextDrawingBox"
+			],
+			[
+				"asci",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"xml ",
+				"Codec: XML escape"
+			],
+			[
+				"enco",
+				"Codec: JSON encode"
+			],
+			[
+				"worke",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"jsne",
+				"Set Syntax: JavaScript Next"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 467.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dfletch/Downloads/server/asciim"
+	],
+	"file_history":
+	[
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/wfpeople.wfmC_custom.sql",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/README.md",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/stateawarejs ajax.html",
+		"/C/Users/dfletch/Downloads/apex5f357_page_101.sql",
+		"/C/Users/dfletch/Downloads/productionf357_page_101.sql",
+		"/C/Users/dfletch/Desktop/jquery.dynatable.js",
+		"/C/Users/dfletch/Downloads/Isaac Asimov - I, Robot.epub",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/codewars.py",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/compare.sublime-project",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/scratchpad.md",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/testing apex 5 notes",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/ToadSyncScriptToClipBoard.au3",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/testing softlanding.md",
+		"/C/Users/dfletch/Downloads/f357_page_17 (1).sql",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/gsconfig.php",
+		"//PMISZFPW01/Shared/IT/public/TinyMCE & jQuery for Test Domo/tinymce/tinymce.min.js",
+		"//PMISZFPW01/Shared/IT/public/TinyMCE & jQuery for Test Domo/tinymce/jquery.tinymce.min.js",
+		"/C/Users/dfletch/Downloads/f357.sql",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/SortBy/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/TabsToTable/README.md",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/lbfd/httpdocs/include/footer.php",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/lbfd/httpdocs/include/header.php",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/lbfd/httpdocs/gallery.php",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/lbfd/httpdocs/index.php",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/lbfd/httpdocs/include/sidebarRight.php",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/PHP Codebeautifier/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/PHPIntel/README.md",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/index.php",
+		"/C/Users/dfletch/Downloads/server/UniServerZ/www/onefilelogin/users.db",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Ascii/codewars.java",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/LBFDtest.json",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/codewars.js",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Ascii/LBFD.json",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Ascii/LBFD",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/documentationrfcpage17knockout.mdown",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/pryia.mdown",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Ascii/m.py",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/m.py",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/StringUtilities/README.md",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/codewars.cs",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/C#/README.markdown",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/C# Compile & Run/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/C/Users/dfletch/Desktop/apex_5.0/apex/images/libraries/apex/widget.menu.js",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Ascii/codewars.cs",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/PzFormat/README.md",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/telus mobilityGUI.sql",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/README.md",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Ascii/scratch.py",
+		"/C/Users/dfletch/Downloads/m.py",
+		"/C/Users/dfletch/Desktop/apex_5.0/apex/images/libraries/jquery-ui/1.10.4/ui/jquery.ui.menu.js",
+		"/C/Users/dfletch/Desktop/apex_5.0/apex/images/libraries/jquery-ui/1.10.4/ui.menu.jquery.json",
+		"/C/Users/dfletch/Desktop/apex_5.0/apex/images/libraries/apex/widget.popupLov.js",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3 july 10th/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3 july 10th/Packages/User/AutoBackups (Windows).sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/LocalHistory.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/FileHistory.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3 july 10th/Installed Packages/Local History/LocalHistory.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3 july 10th/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Super Calculator/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/readme.md",
+		"/C/Program Files (x86)/Git/etc/gitconfig",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/ProgramingInterviewQuestions.txt",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/Package Syncing.sublime-settings",
+		"/c/users/dfletch/appdata/local/temp/tmpl56ffq.txt",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/worksheet.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Worksheet/worksheet.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/BoxArtCharacters.sublime-snippet",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/boxDrawingDoubleLineBox.sublime-snippet",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/CanvasTest.html",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Changes_ajax.sql",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/domo page 17 original 2015.html",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Apex object added",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Testing Fixes.txt",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/time planning math",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/misc notes",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Table Editor/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Snake/Snake.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Snake/Default (Windows).sublime-keymap",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Backups/2015-05-06/network/pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/time planning math_155557",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Domo Ticket Tests.txt",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/Testing Project.sublime-project",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Local History/LocalHistory.sublime-settings",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/DOMO.apex_change_ut.sql",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/User/Modific.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Table Editor/Default (Windows).sublime-keymap",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/approval_type_lookup.sql",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/NotesDev/local SVN/approval_type_lookup.sql",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/time planning math",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/Testing Fixes.txt",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/domo page 17 original 2015.html",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/Package Control Messages 2",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/CanvasTest.html",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/Domo Ticket Tests.txt",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/Default (Windows).sublime-keymap",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/Package Control Messages 1",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/5000 dev.css",
+		"//pmiszfpw01/users$/DFLETCH/My Documents/Notes/5000 test.css",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Installed Packages/Strapdown Markdown Preview.sublime-package",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/FindKeyConflicts/README.md",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/dfletch/AppData/Roaming/Sublime Text 3/Packages/nRepeat/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"viewmod",
+			"apex_050000",
+			"total",
+			"40.0%",
+			"css",
+			"state_css",
+			"window",
+			"changeStatusList",
+			"ChangeStatusList",
+			"changeStatusList",
+			"rfcStatus",
+			"this",
+			"viewmode",
+			"\\s*",
+			"   ",
+			"  ",
+			"fChangeAction",
+			"phone",
+			"$SESSION_I",
+			"display",
+			"null",
+			"+ c +",
+			" + a +",
+			"{\n",
+			"edit(",
+			"edit",
+			"olitical campaign, of course, lost all o",
+			" - | ",
+			"&#x.*?;",
+			"&#x201D;",
+			"lose yourse",
+			"17",
+			"transparent",
+			").\n\n",
+			"disabled",
+			"apex_0500",
+			"apex_050000",
+			"\n        ID        PID NAME                                                                  LINK                                                   A1 A2\n---------- ---------- --------------------------------------------------------------------- ------------------------------------------------------ -- --",
+			"",
+			":57",
+			"404",
+			"of both Intranet and Mill sites",
+			"-",
+			"o	",
+			"•	",
+			"<?php echo $_SERVER['HTTP_REFERER']; ?>",
+			"$_SERVER['HTTP_REFERER']",
+			"REQUEST_URI",
+			"src=\"/",
+			"advanced",
+			"]",
+			"and last !='\\\\'",
+			"(\\[|\\])",
+			"</Pass>",
+			"base64",
+			"\", \"",
+			"length()",
+			"','",
+			"top",
+			"System.out.print",
+			"\"",
+			"y*-12",
+			"x*12",
+			"y*12",
+			"3",
+			"0",
+			"grid",
+			"!=",
+			"grid[y][x]",
+			">",
+			".push(JSON.st",
+			"openpath.push(nextNode);",
+			"if(",
+			"if ",
+			"console",
+			"visited.indexOf",
+			"  visited.push",
+			">=",
+			"inMap",
+			"nextnode",
+			"nextNode",
+			"nextnode",
+			"nextNode",
+			"nextnode",
+			"nextNode",
+			"nextnode",
+			"miner",
+			"inMap",
+			"Valid",
+			"West",
+			"South",
+			"East",
+			"North",
+			",",
+			"loops",
+			" :",
+			":",
+			"first",
+			"inner_list",
+			"zxxx",
+			"~",
+			"word",
+			"words",
+			"word",
+			"return",
+			" print(",
+			": ",
+			", ",
+			"0{7}",
+			":",
+			": ",
+			", ",
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"push"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 301.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ASCIIM workspace.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cdewa",
+				"codewars.py"
+			],
+			[
+				"scrat",
+				"scratchpad.md"
+			],
+			[
+				"codpy",
+				"codewars.py"
+			],
+			[
+				"codeja",
+				"Ascii\\codewars.java"
+			],
+			[
+				"codjs",
+				"codewars.js"
+			],
+			[
+				"mpy",
+				"Ascii\\m.py"
+			],
+			[
+				"py",
+				"codewars.py"
+			],
+			[
+				"codecs",
+				"codewars.cs"
+			],
+			[
+				"codec",
+				"codewars.cs"
+			],
+			[
+				"code",
+				"codewars.py"
+			],
+			[
+				"m",
+				"m.py"
+			],
+			[
+				"codwarpy",
+				"codewars.py"
+			],
+			[
+				"codewarsjs",
+				"codewars.js"
+			],
+			[
+				"scra",
+				"scratchpad.md"
+			],
+			[
+				"scratc",
+				"scratchpad.md"
+			],
+			[
+				"",
+				"Testing Project.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\pmiszfpw01\\users$\\DFLETCH\\My Documents\\Notes\\NotesDev\\RFC talk and migrathion script..sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
